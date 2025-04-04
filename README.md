@@ -1,4 +1,4 @@
-# Alai coding challenge
+# Alai coding challenge prep
 
 This repository contains information for the Alai challenge submission. Please follow the instructions below carefully to ensure your submission meets all requirements.
 
